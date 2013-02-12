@@ -1,3 +1,5 @@
 this file is to check the functionality of git
 
 2nd line of check file
+
+new line added to check git in check file
